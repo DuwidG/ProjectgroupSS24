@@ -1,0 +1,96 @@
+# Food Bot Queries
+
+Q: What's for Lunch Today?
+Today's lunch menu:
+	•	Schweinerückensteak mit frischen Champignons und Kartoffelkroketten und Hollandaise Sauce - 4,40 €
+	•	Linseneintopf - 1,00 €
+	•	Vegane Bockwurst - 1,30 €
+	•	Kartoffel-Gemüse-Gulasch - 1,85 €
+	•	Hähnchenschnitzel "Piccata" - 2,50 €
+	•	Weizen-Frikadelle auf Möhren "Bürgerlich" - 2,40 €
+	•	Paniertes Merlanfilet mit Gurken-Joghurt-Dip - 2,50 €
+Q: What's on tomorrow's Menu?
+Tomorrow's Menu:
+	•	Spaghetti á la "Carbonara" (3.60€)
+	•	Tomatensuppe mit Reis (1.00€)
+	•	Tortellini Verdura mit Tomaten-Erbsenragout (2.40€)
+	•	Schweinegulasch "Korma" mit Joghurt und Koriander (2.50€)
+Q: What vegetarian options are there on Wednesday?
+On Wednesday, the vegetarian options are:
+	•	Minestrone - 1,00 €
+		•	Additional Information: fleischlos
+	•	Linsen-Ratatouille mit Gerste: Urkorn aus Deutschland - 2,10 €
+		•	Additional Information: fleischlos, Knoblauch
+Q: What can i eat today if i don't want to spend more than 2 euros?
+Today is Monday. Here are the options under 2 euros:
+	•	Linseneintopf (1,00 €)
+	•	Bockwurst Vegane Bockwurst (1,30 €)
+Q: On which days can i eat currywurst?
+Currywurst is available on Friday.
+Q: Was gibts heute?
+Heute ist Montag. Hier ist das heutige Menü:
+	•	Schweinerückensteak mit frischen Champignons und Kartoffelkroketten und Hollandaise Sauce - 4,40 €
+	•	Linseneintopf - 1,00 €
+	•	Bockwurst Vegane Bockwurst - 1,30 €
+	•	Kartoffel-Gemüse-Gulasch - 1,85 €
+	•	Hähnchenschnitzel "Piccata" mit Tomaten-Basilikumsauce - 2,50 €
+	•	Weizen-Frikadelle auf Möhren "Bürgerlich" - 2,40 €
+	•	Paniertes Merlanfilet mit Gurken-Joghurt-Dip - 2,50 €
+	•	Linseneintopf - 0,70 €
+Q: Was gibt es alles Montags, dass halal ist?
+Montags gibt es folgende Gerichte, die halal sind:
+	•	Linseneintopf (1,00 €)
+	•	Bockwurst Vegane Bockwurst (1,30 €)
+	•	Kartoffel-Gemüse-Gulasch (1,85 €)
+	•	Hähnchenschnitzel "Piccata" mit Tomaten-Basilikumsauce (2,50 €)
+
+Q: Qué hay de almuerzo hoy?
+Qué hay de almuerzo hoy? Hoy es lunes. Aquí está el menú para hoy:
+	•	Schweinerückensteak con champiñones frescos y croquetas de patata y salsa Hollandaise - 4,40 €
+		•	Alérgenos: Huevo, Leche, Sellerie
+	•	Eintopf de lentejas - 1,00 €
+		•	Información adicional: sin carne
+		•	Aditivos: antioxidantes, colorante, sulfitos
+		•	Alérgenos: Sellerie
+	•	Bockwurst vegana - 1,30 €
+		•	Información adicional: cerdo
+		•	Aditivos: antioxidantes, colorante, conservantes, fosfatos
+		•	Alérgenos: gluten, mostaza, trigo
+	•	Guiso de patatas y verduras - 1,85 €
+		•	Información adicional: sin carne, ajo
+		•	Alérgenos: Sellerie
+	•	Hähnchenschnitzel "Piccata" con salsa de tomate y albahaca - 2,50 €
+		•	Información adicional: pollo, ajo
+		•	Alérgenos: gluten, leche, trigo
+	•	Weizen-Frikadelle auf Möhren "Bürgerlich" - 2,40 €
+		•	Alérgenos: gluten, mostaza, trigo
+	•	Merlanfilete empanado con dip de yogur y pepino - 2,50 €
+		•	Información adicional: pescado
+		•	Alérgenos: pescado, gluten, leche, trigo
+	•	Eintopf de lentejas - 0,70 €
+		•	Aditivos: antioxidantes, colorante, sulfitos
+		•	Alérgenos: Sellerie
+
+# Chatroom Bot Queries
+Q: Create a Room for me named Sprintkickoffmeeting
+User: Hi, I need a room created for my sprint kickoff meeting.
+
+Me: Sure thing! I've gone ahead and set up your room. Here are the details:
+	•	Room Title: Sprint Kickoff Meeting
+	•	Join Link: https://david-8xuv.webex.com/m/94b77b46-d778-4254-a2c6-6d5becfd0e9f
+
+You can share this link with your team, and everyone can join from there.
+Q: Can you invite duwid_test to the room Sprintkickoffmeeting
+"Great news! I've added duwid_test to our sprint kickoff meeting room. They should receive an invitation shortly."
+Q: Can you invite "daniel" to the room "New Years"
+"I'm sorry, but I couldn't find a room named 'New Years'. Could you please double-check the name or provide me with more details?"
+Q: Can you invite "daniel" to the room "Sprintkickoffmeeting"
+I'm sorry, but I couldn't find anyone named Daniel in our Webex contacts. Could you please check if there's a typo or provide me with their full name?
+Q: Delete the room Sprintkickoffmeeting (room exists)
+"The room 'Sprint Kickoff Meeting' has been deleted."
+Q: Delete the room Sprintkickoffmeeting (room does not exist)
+"Sorry, I couldn't find any room named 'Sprint Kickoff Meeting'. Could you please double-check the name or provide more details?"
+Q: Erstelle einen Raum namens Montagsmeeting
+I've created a new room called "Montagsmeeting" for you. Here's the meeting link: https://david-8xuv.webex.com/m/e953d1ba-f093-4338-a53a-02d1bcef38de. You can share this with your team to join the meeting on Monday.
+Q: Lösche den Raum namens Montagsmeeting
+"I've gone ahead and deleted the 'Montagsmeeting' room for you."

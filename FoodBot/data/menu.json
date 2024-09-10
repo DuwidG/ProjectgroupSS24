@@ -1,0 +1,443 @@
+{
+    "friday": [
+        {
+            "additives": [
+                "Farbstoff",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Ei",
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Currywurst Pommes-frites",
+            "price": "3,60 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Ei",
+                "Gluten",
+                "Milch",
+                "Weizen"
+            ],
+            "contains": [],
+            "name": "Blaubeerpfannkuchen mit Vanillesauce",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff",
+                "Konservierungsstoffe",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Bockwurst Vegane Bockwurst",
+            "price": "1,30 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff"
+            ],
+            "allergens": [
+                "Senf",
+                "Soja"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Kartoffel-Gemüsegratin mit Kerbel-Dill-Dip",
+            "price": "2,40 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Fisch"
+            ],
+            "contains": [
+                "Fisch",
+                "Knoblauch"
+            ],
+            "name": "Alaska-Seelachsfilet auf Tomatensugo",
+            "price": "2,50 €"
+        }
+    ],
+    "monday": [
+        {
+            "additives": [],
+            "allergens": [
+                "Gluten",
+                "Milch",
+                "Weizen"
+            ],
+            "contains": [
+                "Knoblauch",
+                "Rind"
+            ],
+            "name": "Tortelloni mit Fleischfüllung in Tomatensoße geriebener Hartkäse",
+            "price": "4,00 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Sellerie"
+            ],
+            "contains": [
+                "fleischlos"
+            ],
+            "name": "Veganer Erbseneintopf",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Konservierungsstoffe"
+            ],
+            "allergens": [
+                "Gluten",
+                "Milch",
+                "Weizen"
+            ],
+            "contains": [],
+            "name": "Germkloß mit Vanillesauce",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff",
+                "Konservierungsstoffe",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Bockwurst Vegane Bockwurst",
+            "price": "1,30 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Soja"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Sojageschnetzeltes \"Mediterrane Art\"",
+            "price": "2,40 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Ei",
+                "Gluten",
+                "Weizen"
+            ],
+            "contains": [
+                "Knoblauch",
+                "Schwein"
+            ],
+            "name": "Schweineschnitzel mit Paprika-Rosmarinsauce",
+            "price": "2,50 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel"
+            ],
+            "allergens": [
+                "Gluten",
+                "Sellerie",
+                "Soja",
+                "Weizen"
+            ],
+            "contains": [
+                "Knoblauch"
+            ],
+            "name": "Bohnengulasch",
+            "price": "1,85 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Fisch",
+                "Gluten",
+                "Milch",
+                "Weizen"
+            ],
+            "contains": [
+                "Fisch"
+            ],
+            "name": "Gebackenes Schollenfilet mit Paprika-Joghurt-Dip",
+            "price": "2,50 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Sellerie"
+            ],
+            "contains": [],
+            "name": "Veganer Erbseneintopf",
+            "price": "0,70 €"
+        }
+    ],
+    "thursday": [
+        {
+            "additives": [],
+            "allergens": [
+                "Gluten",
+                "Weizen"
+            ],
+            "contains": [],
+            "name": "Schupfnudeln Sauerkrautpfanne VRGAN",
+            "price": "4,00 €"
+        },
+        {
+            "additives": [
+                "Konservierungsstoffe"
+            ],
+            "allergens": [],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Indische Linsensuppe Karotten-Ingwer-Orangensuppe",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff",
+                "Konservierungsstoffe",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Bockwurst Vegane Bockwurst",
+            "price": "1,30 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Gluten",
+                "Sesam",
+                "Weizen"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Möhren-Sesam-Nudeln mit Rucola Tomaten-Basilikumsauce",
+            "price": "2,10 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Milch"
+            ],
+            "contains": [
+                "Knoblauch",
+                "Schwein"
+            ],
+            "name": "Schweinegeschnetzeltes mit Champignons",
+            "price": "2,50 €"
+        },
+        {
+            "additives": [
+                "Konservierungsstoffe"
+            ],
+            "allergens": [],
+            "contains": [
+                "Knoblauch"
+            ],
+            "name": "Indische Linsensuppe",
+            "price": "0,70 €"
+        }
+    ],
+    "tuesday": [
+        {
+            "additives": [],
+            "allergens": [
+                "Ei",
+                "Milch",
+                "Sellerie"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Schweinerückensteak mit Champignons, Kartoffelkroketten und Sc. Hollandaise",
+            "price": "4,40 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Sellerie"
+            ],
+            "contains": [
+                "fleischlos"
+            ],
+            "name": "Minestrone",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff",
+                "Konservierungsstoffe",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Bockwurst Vegane Bockwurst",
+            "price": "1,30 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Gluten",
+                "Sesam",
+                "Weizen"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Funky Falafel mit Kurkuma-Ingwer-Hummus",
+            "price": "2,40 €"
+        },
+        {
+            "additives": [],
+            "allergens": [],
+            "contains": [
+                "Geflügel",
+                "Knoblauch"
+            ],
+            "name": "Gebackene Hähnchenbrust in Kokos-Currysauce",
+            "price": "2,50 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Sellerie"
+            ],
+            "contains": [],
+            "name": "Minestrone",
+            "price": "0,70 €"
+        }
+    ],
+    "wednesday": [
+        {
+            "additives": [
+                "Farbstoff"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Sesam",
+                "Soja",
+                "Weizen"
+            ],
+            "contains": [],
+            "name": "Big Burger Vegan mit Pommes frites",
+            "price": "4,40 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Soja"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Karotten-Ingwer-Orangensuppe",
+            "price": "1,00 €"
+        },
+        {
+            "additives": [
+                "Antioxidationsmittel",
+                "Farbstoff",
+                "Konservierungsstoffe",
+                "Phosphat"
+            ],
+            "allergens": [
+                "Gluten",
+                "Senf",
+                "Weizen"
+            ],
+            "contains": [
+                "Schwein"
+            ],
+            "name": "Bockwurst Vegane Bockwurst",
+            "price": "1,30 €"
+        },
+        {
+            "additives": [
+                "Konservierungsstoffe"
+            ],
+            "allergens": [
+                "Gluten",
+                "Mandeln",
+                "Schalenfrüchte",
+                "Weizen"
+            ],
+            "contains": [
+                "fleischlos",
+                "Knoblauch"
+            ],
+            "name": "Bulgurpfanne mit Harissa",
+            "price": "2,10 €"
+        },
+        {
+            "additives": [],
+            "allergens": [],
+            "contains": [
+                "Geflügel",
+                "Knoblauch"
+            ],
+            "name": "Putensteak mit Mango-Chutney",
+            "price": "2,50 €"
+        },
+        {
+            "additives": [],
+            "allergens": [
+                "Soja"
+            ],
+            "contains": [
+                "Knoblauch"
+            ],
+            "name": "Karotten-Ingwer-Orangensuppe",
+            "price": "0,70 €"
+        }
+    ]
+}
