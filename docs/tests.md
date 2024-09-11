@@ -10,10 +10,10 @@
 |Was gibts heute?|List of Items on Todays Menu|correct|
 |Was gibt es alles Montags, dass halal ist?|List of Items fitting criteria (diet & day)|incorrect, forgets One Item|
 |Qué hay de almuerzo hoy?| List of Items on Todays Menu in spanish|correct|
+
 ---
 
 # Chatroom Bot Queries
-## English
 |Question|Expectation|Response|Function Call|
 |--------|-----------|--------|-------------|
 |Create a Room for me named Sprintkickoffmeeting|Create a Room, respond with confirmation and link|correct|correct|
