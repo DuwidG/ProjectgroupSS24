@@ -1,4 +1,5 @@
 # Ukb-Bots - Proof of Concept
+## This is a Copy of the final version of my private Repository
 
 ## Project Description
 Ukb-Bots is a proof of concept that includes two separate Webex Bots developed in Python. The first bot provides information about the weekly Mensa menu, and the second bot manages your Webex rooms. Both bots receive commands in natural language, which are processed using Mistral-NeMo on the Ollama platform.
